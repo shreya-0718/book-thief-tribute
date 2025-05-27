@@ -1,0 +1,23 @@
+body {
+    background: linear-gradient(saddlebrown,  #4d2600
+);
+    font-family: baskerville, serif;
+}
+
+h1 {
+    color: moccasin;
+    text-align: center;
+    font-size: 3em;
+    margin-top: 20px;
+}
+
+p {
+    color: moccasin;
+    text-align: justify;
+    font-size: 1.2em;
+    margin: 20px;
+}
+
+
+
+
