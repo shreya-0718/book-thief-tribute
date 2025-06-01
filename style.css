@@ -23,6 +23,8 @@ p {
     text-align: justify;
     font-size: 1.5em;
     margin: 20px;
+
+    text-indent: 40px;
 }
 
 
@@ -51,6 +53,7 @@ hr {
     float: left;
     margin-right: 20px;
     width: 300px;
+    z-index: 2;
 }
 
 
@@ -74,3 +77,22 @@ hr {
         ::-webkit-scrollbar-thumb:hover {
         background: gray;
         }
+
+.background {
+    justify-content: center;
+    gap: 20px;
+    z-index: -1;
+    height: auto;
+    display: flex;
+    overflow: hidden;
+    pointer-events: none;
+}
+
+.bg-img {
+    width: 100%;
+    opacity: .2;
+    max-height: 3100px;
+    object-fit: cover;
+    position: absolute;
+    transform: translateY(-42px); 
+}
