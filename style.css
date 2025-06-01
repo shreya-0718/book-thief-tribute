@@ -42,6 +42,11 @@ p {
     width: 300px;
 }
 
+hr {
+    border: 1px solid moccasin;
+    margin: 20px;
+}
+
 .img-left {
     float: left;
     margin-right: 20px;
