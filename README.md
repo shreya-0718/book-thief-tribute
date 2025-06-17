@@ -5,7 +5,11 @@ I made it for the Athena YSWS Tribute: https://tribute.athena.hackclub.com/
 
 
 ## So, what is it? And why?
-Presenting... The Book Thief Tribute! It's a website to honor Markus Zusak's novel _The Book Thief_, which continues to be one of my favorite books
+Presenting... The Book Thief Tribute! 
+
+https://shreya-0718.github.io/book-thief-tribute/
+
+It's a website to honor Markus Zusak's novel _The Book Thief_, which continues to be one of my favorite books
 ever. The storytelling, the emotional depth... everything about it is wonderful and I really do think everyone should read the book at least once
 in their life. You won't regret, trust me. So, yes I made this website to completely fangirl over _The Book Thief_ :)
 
